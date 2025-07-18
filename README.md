@@ -12,7 +12,7 @@ ThoughtBin is a minimal, fast, and user-friendly note-taking web app inspired by
 
 ## 🖼️ Screenshot
 
-![App Screenshot](overvieww.png)
+![App Screenshot](ThoughtBin.png)
 
 ## 🛠️ Tech Stack
 
