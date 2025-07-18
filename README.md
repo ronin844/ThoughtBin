@@ -25,4 +25,4 @@ ThoughtBin is a minimal, fast, and user-friendly note-taking web app inspired by
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ronin844/ThoughtBin
